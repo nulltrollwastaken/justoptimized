@@ -17,7 +17,7 @@ The following mods include:
 
 About the same. I tested it with SO and it was only slightly worse. If your monitor is below 360hz, it shouldn't really matter.
 
-Comparison between simply optimized and just optimized
+(insert screenshot)
 ## I wish this modpack could be improved. How do I add suggestions?
 
 You may submit a response in the monsiacord forums.
