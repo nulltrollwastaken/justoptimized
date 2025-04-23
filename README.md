@@ -1,5 +1,4 @@
-![logo](https://lh5.googleusercontent.com/yQvaBem3xwSHGB1siD5UFgr-_fSBFAKMV2eN9rU9zsargQnBAEZL0XxHrYV98kcmMcV834DDhn60rVdzr9fuT2s) 
-
+![logo](https://i.imgur.com/qXIFpG5.png)
 # Simple Neoforge Modpack that is designed to be as good as we can get it. (icon by oheti on discord)
 
 The following mods include:
