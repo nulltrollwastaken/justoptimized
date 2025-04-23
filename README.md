@@ -1,4 +1,4 @@
-[logo](https://lh5.googleusercontent.com/yQvaBem3xwSHGB1siD5UFgr-_fSBFAKMV2eN9rU9zsargQnBAEZL0XxHrYV98kcmMcV834DDhn60rV)
+[logo](https://lh5.googleusercontent.com/yQvaBem3xwSHGB1siD5UFgr-_fSBFAKMV2eN9rU9zsargQnBAEZL0XxHrYV98kcmMcV834DDhn60rVdzr9fuT2s) 
 
 # Simple Neoforge Modpack that is designed to be as good as we can get it. (icon by oheti on discord)
 
